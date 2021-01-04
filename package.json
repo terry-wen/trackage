@@ -1,0 +1,22 @@
+{
+  "name": "trackage",
+  "version": "1.0.0",
+  "description": "personal package tracking app",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terry-wen/trackage.git"
+  },
+  "author": "Terry Wen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terry-wen/trackage/issues"
+  },
+  "homepage": "https://github.com/terry-wen/trackage#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
